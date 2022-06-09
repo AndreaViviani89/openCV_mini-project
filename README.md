@@ -20,4 +20,5 @@ This mini project takes an image and text to write on the image and returns an i
 ## Project 4 - Green screen
 This mini project shows how to change the background of a video and replace it with another
  
-
+## Project 5 - Handwriting
+This mini project shows how to extract the individual numbers from an image. The extracted numbers are then used as inputs in prediction models for handwritten recognition
