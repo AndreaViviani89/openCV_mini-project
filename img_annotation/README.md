@@ -6,19 +6,20 @@
 2. openCV = version 4.5.5
 3. Numpy = version 1.22
 4. Matplotlib = version 3.5
-5. Torch = version 1.11
 
-## Project 1 - Image annotation
+## Image annotation project
 This mini project shows how to drawing features and annotate parts on an image.
 
-## Project 2 - QR Code reader
-This mini project aims to show how to extract the qr code from any given image regardless of where the code is on a given image. QR codes are useful in many everyday situations and being able to scan for one easily and efficiently can be of great importance.
+### Instruction how to run it
 
-## Project 3 - Meme generator
-This mini project takes an image and text to write on the image and returns an image with the written text on it.
+1. Open im_annotation.ipynb file - I suggest to use Visual Studio Code
+2. In the second cell you can edit the image, for the example I used "venice.png"
+3. In the forth cell there are the annotation, with the sample image I annotate "gondola" and "building"
+4. Run all the file to see the result
 
-## Project 4 - Green screen
-This mini project shows how to change the background of a video and replace it with another
- 
-## Project 5 - Handwriting
-This mini project shows how to extract the individual numbers from an image. The extracted numbers are then used as inputs in prediction models for handwritten recognition
+#### *Starting image
+##![Uploading venice.png…]()
+
+#### *Result
+![result](https://user-images.githubusercontent.com/100673761/172873798-879349c5-db33-4803-a8e9-dc8e7c3cf878.png)
+
