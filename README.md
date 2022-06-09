@@ -1,0 +1,2 @@
+# openCV_mini-project
+ 
