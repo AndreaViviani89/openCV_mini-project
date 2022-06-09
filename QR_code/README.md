@@ -11,7 +11,7 @@ This mini project aims to show how to extract the qr code from any given image r
 ### Instruction how to run it
 1. Open qr_code.ipynb file - I suggest to use Visual Studio Code
 2. In the second cell you can edit the image, for the example I used "qr.png"
-3. I've tried two different way to get the same results, in the image below I've highlighted the text that you can edit and the thickness, I'd suggest at least 3
+3. I've tried two different ways to get the same results, in the image below I've highlighted the text that you can edit and the thickness, I'd suggest at least 3
 
 ![immagine](https://user-images.githubusercontent.com/100673761/172882318-9a1fde1f-9fd2-45cb-8441-89b72a1b99aa.png)
  
