@@ -10,7 +10,7 @@ This mini project shows how to change the background of a video and replace it w
 ### Instruction how to run it
 1. Open green_screen.ipynb file - I suggest to use Visual Studio Code
 2. In the second cell you can edit the green screen image and the background, for the example for the green screen I used "3.jpg" and for the backgroun "back.jpg"
-3. The tricky part is to find a good color balance, here an example that I've used:
+3. The tricky part is to find a good color balance, here is the example that I've used:
 
 ![immagine](https://user-images.githubusercontent.com/100673761/172884838-1a1d24e7-fc70-44ce-9238-5fd5d2edec77.png)
 
