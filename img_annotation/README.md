@@ -18,7 +18,7 @@ This mini project shows how to drawing features and annotate parts on an image.
 4. Run all the file to see the result
 
 #### *Starting image
-##![Uploading venice.png…]()
+![venice_rsz](https://user-images.githubusercontent.com/100673761/172874611-b8747359-26e8-4285-a3a9-d7c10c7d4658.png)
 
 #### *Result
 ![result](https://user-images.githubusercontent.com/100673761/172873798-879349c5-db33-4803-a8e9-dc8e7c3cf878.png)
