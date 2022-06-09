@@ -8,8 +8,16 @@
 4. Matplotlib = version 3.5
 5. Torch = version 1.11
 
+## Project 1 - Image annotation
 
 
+## Project 2 - QR Code reader
+
+
+## Project 3 - Meme generator
+
+
+## Project 4 - Green screen
 
  
 
