@@ -20,7 +20,7 @@ This mini project shows how to extract the individual numbers from an image. The
 5. Run all the file to see the result
 
 #### Starting image
-![3_bis](https://user-images.githubusercontent.com/100673761/173003839-8fbe844f-414a-4744-8229-490ebf2cb127.jpeg)
+![tre](https://user-images.githubusercontent.com/100673761/173004251-1edf7107-2835-4720-9619-ced79193f948.jpg)
 
 #### Result
 ![immagine](https://user-images.githubusercontent.com/100673761/173003995-81b3e4dd-e024-487d-aeb9-fd4fa8526e39.png)
